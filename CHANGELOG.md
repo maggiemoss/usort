@@ -3,7 +3,7 @@
 
 ```shell-session
 $ git shortlog -sn v1.1.1...
-     1     Maggie Moss
+     1    Maggie Moss
 ```
 
 
